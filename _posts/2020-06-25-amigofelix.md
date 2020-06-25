@@ -42,7 +42,7 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-26-amigofelix/Felix3.jpg"/style="width:341px; height:512px">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-26-amigofelix/Felix3.jpg"/>
 	<figcaption> Félix en una exhibición de <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20que%20la%20ciencia%20se%20llev%C3%B3/amigofelix/index.html#target">cetrería</a> en 1955 (Fuente: Wikipedia).</figcaption>
 </figure>
 
