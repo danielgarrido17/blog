@@ -14,6 +14,7 @@ tags:
   - Naturaleza
 --- 
 
+
 Suenan unos golpes de timbales en mi cabeza. Poco a poco me desperezo y me doy cuenta de que me he quedado adormilado en el sofá y de fondo suena la música introductoria de la enésima reposición de un capítulo de “El Hombre y la Tierra”. Esa serie de documentales que a mucha gente de nuestra generación nos parecen anticuados, con colores pálidos y movimientos que nos pueden parecer bruscos, muy distintos a los actuales documentales que podemos encontrar en plataformas como Netflix.
 Sin embargo, esos documentales que Televisión Española emitió en los años 70 cambiaron para siempre y de golpe el paradigma que se tenía de la naturaleza en ese momento. Se la empezó a presentar como ese elemento que nos rodea y que necesitamos conocer y preservar como un tesoro.
 Imágenes que en el momento de emisión fueron, y aún son, hitos en la narrativa documental se acompañaban de una voz hipnótica. Una voz que narraba con un tono firme y serio, pero a su vez plagado de amor y pasión, escenas de una belleza y dureza excepcional y que, en muchos casos, mostraban animales y parajes de la península que poco tienen que envidiar a los que encontraríamos a miles de kilómetros, donde nos transportan los documentales de otros genios como David Attenborough. Esa voz tan inolvidable es la de un tal Félix Rodríguez de la Fuente. Muchos posiblemente ya lo conozcáis, a otros, en cambio, simplemente os suene como el protagonista de las historias del abuelo cebolletas.
