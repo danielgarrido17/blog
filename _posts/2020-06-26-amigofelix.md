@@ -14,7 +14,7 @@ tags:
   - Naturaleza
 --- 
 
-
+ 
 Suenan unos golpes de timbales en mi cabeza. Poco a poco me desperezo y me doy cuenta de que me he quedado adormilado en el sofá y de fondo suena la música introductoria de la enésima reposición de un capítulo de “El Hombre y la Tierra”. Esa serie de documentales que a mucha gente de nuestra generación nos parecen anticuados, con colores pálidos y movimientos que nos pueden parecer bruscos, muy distintos a los actuales documentales que podemos encontrar en plataformas como Netflix.
 Sin embargo, esos documentales que Televisión Española emitió en los años 70 cambiaron para siempre y de golpe el paradigma que se tenía de la naturaleza en ese momento. Se la empezó a presentar como ese elemento que nos rodea y que necesitamos conocer y preservar como un tesoro.
 Imágenes que en el momento de emisión fueron, y aún son, hitos en la narrativa documental se acompañaban de una voz hipnótica. Una voz que narraba con un tono firme y serio, pero a su vez plagado de amor y pasión, escenas de una belleza y dureza excepcional y que, en muchos casos, mostraban animales y parajes de la península que poco tienen que envidiar a los que encontraríamos a miles de kilómetros, donde nos transportan los documentales de otros genios como David Attenborough. Esa voz tan inolvidable es la de un tal Félix Rodríguez de la Fuente. Muchos posiblemente ya lo conozcáis, a otros, en cambio, simplemente os suene como el protagonista de las historias del abuelo cebolletas.
@@ -26,7 +26,6 @@ Actualmente existen más de 250 manadas de lobo ibérico en España, localizadas
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-26-amigofelix/Felix1.jpg"/>
 	<figcaption> Félix acompañado de un lobo ibérico (Fuente: El País).</figcaption>
 </figure>
-
 
 Mucho antes Félix ya se había interesado en rescatar del olvido una actividad que llevaba abandonada en los libros de historia desde los siglos XVIII y XIX: la cetrería. Este arcaico pero efectivo método de caza que Félix quiso resucitar nos permitió conocer un poco mejor a sus protagonistas: las aves rapaces o aves de presa, que estaban extremadamente amenazadas y sin ningún tipo de legislación que las protegiese. En 1954 participó en la fundación de la Sociedad Española de Ornitología (SEO) y gracias, en parte, a sus estudios sobre la etología de las rapaces, en 1966 se consiguió proteger el halcón peregrino y las rapaces nocturnas.
 La emisión de sus documentales durante los años 70 permitió a la sociedad española de la época, en muchos casos ya desvinculada de la tradición rural y con una modernización en ciernes, no olvidar el mundo y los elementos que sus padres y abuelos habían conocido durante las décadas anteriores. La creación de los “Campamentos de jóvenes naturalistas” de Montejo de la Vega durante esos años supuso la presentación de estos elementos naturales a la juventud, provocando la aparición de un nuevo interés colectivo hacia la protección de la naturaleza en nuestro país. Estos campamentos estuvieron estrechamente ligados al papel de Félix como vicepresidente de ADENA (actualmente WWF-España) y a los trabajos de protección y conservación del buitre leonado que allí mismo se desarrollaron.
@@ -41,7 +40,7 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 </figure>
 &nbsp;  
 &nbsp;  
-
+&nbsp;   
 
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
@@ -50,6 +49,7 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 **Cetrería**: Actividad de caza con aves rapaces entrenadas, principalmente águilas y halcones.  
 **Animal troquelado**: Animal que en un periodo de aprendizaje, normalmente durante las primeras etapas de vida, es manipulado indebidamente, haciendo que se termine identificando o improntando con seres humanos.</span>
 {: .notice--primary} 
+     
 
 ---
 **Para saber más**
@@ -57,4 +57,5 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 * Aquí están disponibles todos los episodios de la serie “El Hombre y la Tierra”: (https://www.rtve.es/alacarta/videos/el-hombre-y-la-tierra/){:target="_blank"}
 * Sociedad Española de Ornitología: (https://www.seo.org/){:target="_blank"} Muestran fichas muy detalladas así como manuales de identificación de las aves de España y todos los proyectos en los que participan.
 * World Wildlife Fund España: (https://www.wwf.es/){:target="_blank"} ONG muy diversa con el objetivo principal de proteger y conservar la naturaleza tratando temas como alimentación, cambio climático, energías limpias, etc.
+
 ---
