@@ -47,7 +47,6 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 </figure>
 &nbsp;  
 &nbsp;  
-
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">**Especie cinegética**: Especie cuya captura mediante la caza o pesca está autorizada por la administración competente.   
