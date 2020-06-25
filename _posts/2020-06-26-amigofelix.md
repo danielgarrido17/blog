@@ -27,6 +27,7 @@ Actualmente existen más de 250 manadas de lobo ibérico en España, localizadas
 	<figcaption> Félix acompañado de un lobo ibérico (Fuente: El País).</figcaption>
 </figure>
 
+
 Mucho antes Félix ya se había interesado en rescatar del olvido una actividad que llevaba abandonada en los libros de historia desde los siglos XVIII y XIX: la cetrería. Este arcaico pero efectivo método de caza que Félix quiso resucitar nos permitió conocer un poco mejor a sus protagonistas: las aves rapaces o aves de presa, que estaban extremadamente amenazadas y sin ningún tipo de legislación que las protegiese. En 1954 participó en la fundación de la Sociedad Española de Ornitología (SEO) y gracias, en parte, a sus estudios sobre la etología de las rapaces, en 1966 se consiguió proteger el halcón peregrino y las rapaces nocturnas.
 La emisión de sus documentales durante los años 70 permitió a la sociedad española de la época, en muchos casos ya desvinculada de la tradición rural y con una modernización en ciernes, no olvidar el mundo y los elementos que sus padres y abuelos habían conocido durante las décadas anteriores. La creación de los “Campamentos de jóvenes naturalistas” de Montejo de la Vega durante esos años supuso la presentación de estos elementos naturales a la juventud, provocando la aparición de un nuevo interés colectivo hacia la protección de la naturaleza en nuestro país. Estos campamentos estuvieron estrechamente ligados al papel de Félix como vicepresidente de ADENA (actualmente WWF-España) y a los trabajos de protección y conservación del buitre leonado que allí mismo se desarrollaron.
 Ese interés no solo en conocer hasta el más mínimo recodo de nuestros ecosistemas sino en mostrárselo al mundo, lo transmitía desde una perspectiva concienciadora y totalmente comprometida con el movimiento conservacionista y no únicamente desde una perspectiva estética. Con sus imágenes y narrativa cautivaba, pero también presentaba, enseñaba y divulgaba lo que en poco tiempo sería un simple recuerdo, si no se actuaba con rapidez y decisión. Esa es en muchos casos la labor del divulgador naturalista: tratar de entender y mostrar de forma clara todos los escondites de la naturaleza. Esto, unido a una pasión por ella, es capaz de contagiar ese interés y devoción, llegando a entender el papel de estos procesos en el planeta y como directa o indirectamente nos vemos afectados por su modificación o desaparición.
@@ -40,6 +41,7 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
 </figure>
 &nbsp;  
 &nbsp;  
+
 
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
