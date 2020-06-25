@@ -27,7 +27,7 @@ Actualmente existen más de 250 manadas de lobo ibérico en España, localizadas
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-26-amigofelix/Felix1.jpg" alt="Holi" style="width:490px; height:276px">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-26-amigofelix/Felix1.jpg" alt="Holi" style="width:490px; height:276px">{: .align-center}
 	<figcaption> Félix acompañado de un lobo ibérico (Fuente: El País).</figcaption>
 </figure>
 
