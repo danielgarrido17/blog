@@ -38,11 +38,9 @@ El 14 de marzo de 1980, justo el día en el que cumplía 52 años (y hace poco m
      
 ---
 **Para saber más**
-* [On a New Kind of Rays. Nature 53, 274–276 (1896)](https://www.nature.com/articles/053274b0){:target="_blank"} - Traducción al inglés del artículo original publicado por Wilhelm Conrad Röntgen en enero de 1896 (el original está escrito en alemán).
-* [Farmelo, G. The discovery of X-rays. Sci. Am. 273, 86–91 (1995)](https://pubmed.ncbi.nlm.nih.gov/8966538/){:target="_blank"} - Artículo de divulgación con motivo del centenario del descubrimiento de los rayos X (en inglés).
-* Si queréis saber un poco más sobre las aplicaciones de los rayos x en la actualidad podéis cotillear la página de la [Asociación Nacional de Estudiantes Universitarios de Ciencias Físicas (NUSGREM).](https://nusgrem.es/rayos-x-historia-y-aplicaciones/){:target="_blank"}
-* [Wilkins, M. H. F., Stokes, A. R. & Wilson, H. R. Molecular structure of nucleic acids: Molecular structure of deoxypentose nucleic acids. Nature 171, 738–740 (1953)](https://www.nature.com/articles/171738a0){:target="_blank"} (en inglés)- Un ejemplo de la aplicación de  los rayos X en ciencia, además de uno de los artículos científicos que han marcado historia. ¡El descubrimiento de la doble hélice del ADN fue toda una revolución en Biología! Si os habéis quedado con las ganas de saber más no os preocupéis porque os hablaremos de este trabajo más adelante. En especial de uno de los nombres más importantes de esa investigación, pero que desgraciadamente no se encuentra en la lista de autores... ¿Os suena el nombre de Rosalind Franklin?
-* Y por último, aquí podéis ver las fotos tan chulas disponibles en el [archivo de imágenes del satélite Yohkoh](http://ylstone.physics.montana.edu/ylegacy/xray_sun/phy_intro.html){:target="_blank"}
+* [El Hombre y la Tierra](https://www.rtve.es/alacarta/videos/el-hombre-y-la-tierra/){:target="_blank"} Aquí están disponibles todos los episodios de la serie.
+* [Sociedad Española de Ornitología](https://www.seo.org/){:target="_blank"} Muestran fichas muy detalladas así como manuales de identificación de las aves de España y todos los proyectos en los que participan.
+* [World Wildlife Fund España](https://www.wwf.es/){:target="_blank"} ONG muy diversa con el objetivo principal de proteger y conservar la naturaleza tratando temas como alimentación, cambio climático, energías limpias, etc.
 
 ---
 
