@@ -12,7 +12,6 @@ author_profile: true
 tags:
   - Divulgación
   - Naturaleza
-
 --- 
 
 Suenan unos golpes de timbales en mi cabeza. Poco a poco me desperezo y me doy cuenta de que me he quedado adormilado en el sofá y de fondo suena la música introductoria de la enésima reposición de un capítulo de “El Hombre y la Tierra”. Esa serie de documentales que a mucha gente de nuestra generación nos parecen anticuados, con colores pálidos y movimientos que nos pueden parecer bruscos, muy distintos a los actuales documentales que podemos encontrar en plataformas como Netflix.
