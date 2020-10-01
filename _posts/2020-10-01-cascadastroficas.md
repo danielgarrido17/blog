@@ -51,8 +51,8 @@ Aquí presentamos las ecuaciones que demuestran esto que acabamos de explicar. P
 1. Δx =  ax - bxy
 2. Δy = -cy + dxy
 
-La primera ecuación muestra la variación de presas a lo largo del tiempo. En ella vemos que la cantidad de presas (<i>x<i>) depende de un valor <i>a<i>, que agrupa factores como las tasas de reproducción y supervivencia de las presas, y de otro valor <i>by<i>, que se refiere a cómo de rápido desaparecen. Y aquí viene lo interesante: por supuesto, las presas desaparecen más rápido cuanto mayor sea el número de depredadores. En el caso de los depredadores (<i>y<i>) ocurre algo parecido: hay un factor de disminución de la población (<i>-c<i>) y otro que hace referencia a su crecimiento (<i>dx<i>), y que es mayor cuanto mayor sea el número de presas.
-Conclusión: el número de presas afecta al de depredadores y este, a su vez, al de presas. Así se genera un sistema que fluctúa con el tiempo y en el que sus elementos están acoplados (“Ver Gráfica”), es decir, que los cambios en uno de ellos van a producir necesariamente cambios en el otro y viceversa.
+La primera ecuación muestra la variación de presas a lo largo del tiempo. En ella vemos que la cantidad de presas (*x*) depende de un valor *a*, que agrupa factores como las tasas de reproducción y supervivencia de las presas, y de otro valor *by*, que se refiere a cómo de rápido desaparecen. Y aquí viene lo interesante: por supuesto, las presas desaparecen más rápido cuanto mayor sea el número de depredadores. En el caso de los depredadores (*y*) ocurre algo parecido: hay un factor de disminución de la población (*-c*) y otro que hace referencia a su crecimiento (*dx*), y que es mayor cuanto mayor sea el número de presas.
+Conclusión: el número de presas afecta al de depredadores y este, a su vez, al de presas. Así se genera un sistema que fluctúa con el tiempo y en el que sus elementos están acoplados (*“Ver Gráfica”*), es decir, que los cambios en uno de ellos van a producir necesariamente cambios en el otro y viceversa.
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/LotkaVolterra2.png"/>
@@ -70,7 +70,7 @@ Es por ello por lo que necesitamos entender el daño que supone la pérdida de b
 **Ungulados**: Mamíferos que se apoyan con el extremo de los dedos, típicamente revestidos de una pezuña y en muchos casos herbívoros (cabras, ciervos, e incluso los cetáceos).        
 **Especie ingeniera**: Organismo que crea, modifica, mantiene o destruye un ecosistema.
 **Relación de competencia**: Interacción que se produce entre individuos de la misma o de distinta especie por los recursos de un ecosistema (comida, territorio, etc.).           
-**Especie clave**: Organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (_Oryctolagus cuniculus_).        
+**Especie clave**: Organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (*Oryctolagus cuniculus*).        
 </span>
 {: .notice--primary} 
     
