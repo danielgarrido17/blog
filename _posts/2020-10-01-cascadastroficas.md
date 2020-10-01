@@ -12,7 +12,7 @@ tags:
   - Cascadas tróficas
   - Lobo
   - Yellowstone
-  - Hola
+date: 2020-10-02 15:30:00 +0200
 --- 
 
 Vamos a empezar con una pregunta: ¿qué pensaríais si os decimos que los lobos pueden cambiar el curso de los ríos?
@@ -71,8 +71,7 @@ Es por ello por lo que necesitamos entender el daño que supone la pérdida de b
 **Ungulados**: Mamíferos que se apoyan con el extremo de los dedos, típicamente revestidos de una pezuña y en muchos casos herbívoros (cabras, ciervos, e incluso los cetáceos).        
 **Especie ingeniera**: Organismo que crea, modifica, mantiene o destruye un ecosistema.
 **Relación de competencia**: Interacción que se produce entre individuos de la misma o de distinta especie por los recursos de un ecosistema (comida, territorio, etc.).           
-**Especie clave**: Organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (*Oryctolagus cuniculus*).        
-</span>
+**Especie clave**: Organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (*Oryctolagus cuniculus*).</span>
 {: .notice--primary} 
     
 
