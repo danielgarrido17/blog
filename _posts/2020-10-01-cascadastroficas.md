@@ -63,10 +63,9 @@ Es por ello por lo que necesitamos entender el daño que supone la pérdida de b
 &nbsp;  
 &nbsp;
 
-<span style="font-size:1.5em"><a id="target2" style= "color:black"><b>Glosario</b></a></span>   
-&nbsp;
-<span style="font-size:1.25em">
-**Superdepredador**: Especie situada en lo alto de la cadena trófica y, por lo tanto, sin depredadores naturales en su hábitat.         
+<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
+&nbsp;   
+<span style="font-size:1.25em">**Superdepredador**: Especie situada en lo alto de la cadena trófica y, por lo tanto, sin depredadores naturales en su hábitat.         
 **Ungulados**: Mamíferos que se apoyan con el extremo de los dedos, típicamente revestidos de una pezuña y en muchos casos herbívoros (cabras, ciervos, e incluso los cetáceos).        
 **Especie ingeniera**: Organismo que crea, modifica, mantiene o destruye un ecosistema.
 **Relación de competencia**: Interacción que se produce entre individuos de la misma o de distinta especie por los recursos de un ecosistema (comida, territorio, etc.).           
