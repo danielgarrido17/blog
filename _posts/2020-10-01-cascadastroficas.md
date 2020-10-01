@@ -23,8 +23,7 @@ Pero empecemos por el principio. Nos encontramos en el Parque Nacional de Yellow
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/map.jpg"/>
-	<figcaption> El Parque Nacional de Yellowstone en EEUU
-.</figcaption>
+	<figcaption> El Parque Nacional de Yellowstone en EEUU.</figcaption>
 </figure>
 
 A esta extinción local le siguen aproximadamente unos 70 años durante los cuales el ecosistema cambia por completo debido a la ausencia del gran depredador de la zona. La presencia o ausencia del eslabón más alto de una cadena trófica no solo afecta a sus presas, sino a las presas de sus presas, cambiando también las <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cascadastroficas/index.html#target">relaciones de competencia</a> y otras muchas relaciones de depredación. Es lo que se conoce como efecto cascada. La ausencia de lobos en Yellowstone favoreció a las poblaciones de <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cascadastroficas/index.html#target">ungulados</a> que habitaban en la zona, incrementando sus poblaciones, y, por lo tanto, perjudicó al escalón inmediatamente inferior: las plantas. Los depredadores en general, y los lobos en este caso, además de dar caza a sus presas, dan vida a muchas otras especies.
@@ -40,8 +39,7 @@ Es decir, la reaparición del lobo en Yellowstone causó un aumento en la divers
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/Ejemplotrofico.JPG"/>
-	<figcaption> Ejemplo de la relación depredador-presa en Yellowstone entre un carnívoro, un herbívoro y una planta
-.</figcaption>
+	<figcaption> Ejemplo de la relación depredador-presa en Yellowstone entre un carnívoro, un herbívoro y una planta.</figcaption>
 </figure>
 
 Saliendo de este ejemplo tan claro, es importante entender cómo las poblaciones de depredadores y presas interactúan. Ambas dependen directamente de la presencia o ausencia de depredadores y presas. En el momento en el que una especie depredadora ve reducidas sus poblaciones (como ocurrió con el lobo en Yellowstone), sus presas verán incrementada su probabilidad de supervivencia, y, a su vez, reducirán la del siguiente eslabón de la cadena. Una superpoblación de una especie causa, por consiguiente, que sus depredadores directos puedan incrementar sus poblaciones y reducir las de su presa, incrementando las de las presas de su presa. Y así continuamente, en un ciclo que parece caótico, pero que de manera natural está perfectamente calibrado.
@@ -58,8 +56,7 @@ Conclusión: el número de presas afecta al de depredadores y este, a su vez, al
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/LotkaVolterra2.png"/>
-	<figcaption> Gráficas de Lotka-Volterra entre una presa y un depredador (Fuente: Wikipedia)
-.</figcaption>
+	<figcaption> Gráficas de Lotka-Volterra entre una presa y un depredador (Fuente: Wikipedia).</figcaption>
 </figure>
 
 Es por ello por lo que necesitamos entender el daño que supone la pérdida de biodiversidad, no solo por el mero hecho de perder una especie determinada, sino por el papel que esta puede tener en su ecosistema, afectando gravemente a su funcionamiento y siendo muchas veces imposible de recuperar.
