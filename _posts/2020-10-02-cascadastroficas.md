@@ -12,7 +12,6 @@ tags:
   - Cascadas tróficas
   - Lobo
   - Yellowstone
-date: 2020-10-01 13:00:00 +0200
 --- 
 
 Vamos a empezar con una pregunta: ¿qué pensaríais si os decimos que los lobos pueden cambiar el curso de los ríos?
