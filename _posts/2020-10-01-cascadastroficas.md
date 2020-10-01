@@ -19,11 +19,11 @@ Vamos a empezar con una pregunta: ¿qué pensaríais si os decimos que los lobos
 Desde pequeños nos enseñan que los carnívoros se comen a los herbívoros y estos a las plantas. Es un ejemplo claro de reduccionismo, aunque se utiliza para entender el funcionamiento de lo que se conoce como cadena trófica de tres niveles. Estas interacciones, sin embargo, son mucho más complejas y tienen muchos más elementos. Los resultados de cualquier modificación, en muchos casos, son muy difíciles de predecir.
 Sin embargo, en este post vamos a intentar profundizar en uno de los ejemplos más claros, el funcionamiento de estas cadenas y las consecuencias que pueden sufrir si los seres humanos las modificamos a nuestro antojo.
 
-Pero empecemos por el principio. Nos encontramos en el Parque Nacional de Yellowstone (sí, donde vive el Oso Yogui), situado entre los estados de Wyoming, Montana e Idaho, a principios del siglo XX. El principal depredador (o <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cascadastroficas/index.html#target">superdepredador</a>) de la zona es el lobo (<i>Canis lupus<i>), considerado en muchos casos una potencial amenaza para el ser humano y sus actividades. Su protección no está legislada y la caza de este cánido está permitida para cualquiera que visite el parque, incluyendo en muchos casos batidas de caza del mismísimo ejército americano. Debido a esto, el último lobo fue cazado en 1926, con algunos registros de avistamiento posteriores, pero sin manadas establecidas en el parque.
+Pero empecemos por el principio. Nos encontramos en el Parque Nacional de Yellowstone (sí, donde vive el Oso Yogui), situado entre los estados de Wyoming, Montana e Idaho, a principios del siglo XX. El principal depredador (o <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cascadastroficas/index.html#target">superdepredador</a>) de la zona es el lobo (<i>Canis<i> <i>lupus<i>), considerado en muchos casos una potencial amenaza para el ser humano y sus actividades. Su protección no está legislada y la caza de este cánido está permitida para cualquiera que visite el parque, incluyendo en muchos casos batidas de caza del mismísimo ejército americano. Debido a esto, el último lobo fue cazado en 1926, con algunos registros de avistamiento posteriores, pero sin manadas establecidas en el parque.
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/map.jpg"/>
-	<figcaption> El Parque Nacional de Yellowstone en EEUU.
+	<figcaption> El Parque Nacional de Yellowstone en EEUU
 .</figcaption>
 </figure>
 
@@ -39,8 +39,8 @@ La presencia de una mayor superficie cubierta por vegetación en las zonas colin
 Es decir, la reaparición del lobo en Yellowstone causó un aumento en la diversidad del parque, llegando incluso a modificar el curso del río. Lo sorprendente de este cambio es la velocidad a la que ocurrió, ya que en sólo 20 años se había cambiado un ecosistema por completo (algo que en la escala de evolución del paisaje es prácticamente nada).
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/Retroalimentacionpositiva.JPG"/>
-	<figcaption> Ejemplo de la relación depredador-presa en Yellowstone entre un carnívoro, un herbívoro y una planta.
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/Ejemplotrofico.JPG"/>
+	<figcaption> Ejemplo de la relación depredador-presa en Yellowstone entre un carnívoro, un herbívoro y una planta
 .</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Conclusión: el número de presas afecta al de depredadores y este, a su vez, al
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-cascadastroficas/LotkaVolterra2.png"/>
-	<figcaption> Gráficas de Lotka-Volterra entre una presa y un depredador (Fuente: Wikipedia).
+	<figcaption> Gráficas de Lotka-Volterra entre una presa y un depredador (Fuente: Wikipedia)
 .</figcaption>
 </figure>
 
@@ -66,14 +66,15 @@ Es por ello por lo que necesitamos entender el daño que supone la pérdida de b
 &nbsp;  
 &nbsp;
 
-<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
-&nbsp;   
-<span style="font-size:1.25em">**Superdepredador**: Especie situada en lo alto de la cadena trófica y, por lo tanto, sin depredadores naturales en su hábitat.    
-**Ungulados**: Mamíferos que se apoyan con el extremo de los dedos, típicamente revestidos de una pezuña y en muchos casos herbívoros (cabras, ciervos, e incluso los cetáceos).   
+<span style="font-size:1.5em"><a id="target2" style= "color:black"><b>Glosario</b></a></span>   
+&nbsp;
+<span style="font-size:1.25em">
+**Superdepredador**: Especie situada en lo alto de la cadena trófica y, por lo tanto, sin depredadores naturales en su hábitat.         
+**Ungulados**: Mamíferos que se apoyan con el extremo de los dedos, típicamente revestidos de una pezuña y en muchos casos herbívoros (cabras, ciervos, e incluso los cetáceos).        
 **Especie ingeniera**: Organismo que crea, modifica, mantiene o destruye un ecosistema.
-**Relación de competencia**: Interacción que se produce entre individuos de la misma o de distinta especie por los recursos de un ecosistema (comida, territorio, etc.).
-
-**Especie clave**: organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (<i>Oryctolagus cuniculus<i>).</span>
+**Relación de competencia**: Interacción que se produce entre individuos de la misma o de distinta especie por los recursos de un ecosistema (comida, territorio, etc.).           
+**Especie clave**: Organismo que afecta directa o indirectamente a varias especies de una comunidad y que su desaparición está ligada a un colapso del sistema. El ejemplo más claro es el conejo (<i>Oryctolagus<i> <i>cuniculus<i>).
+</span>
 {: .notice--primary} 
     
 
