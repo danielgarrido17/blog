@@ -14,7 +14,6 @@ tags:
   - Química ambiental
   - Virología
   - Biotecnología
-date: 2020-10-23 15:30:00 +0200
 --- 
 
 El cambio climático. El famoso cambio climático. Ese efecto que conocemos desde hace bien poco (no mucho más de 100 años) y que está ganando protagonismo prácticamente todas las semanas en telediarios, periódicos y webs especializadas.
