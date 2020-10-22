@@ -40,6 +40,7 @@ Nuestra misión en el post de hoy es intentar mostrar, en la medida de lo posibl
 Es por ello por lo que hoy os presentamos un ejercicio de multidisciplinariedad: una serie de procesos, causas y efectos relacionados con el cambio climático planteados desde perspectivas como la Física, Química ambiental, Virología o Biotecnología.
 
 
+
 **Albedo o el aire acondicionado del mundo**
 
 Es sabiduría popular que hace 20 años los inviernos eran más fríos y nevaba de manera más frecuente. Ahora, cada año nieva un poco menos que el anterior, cada vez en cotas más altas, y el deshielo polar es más prematuro. Este aumento de temperaturas también hace que las nieves perpetuas y los glaciares reduzcan su extensión, al igual que las grandes masas de hielo de los polos. Evitar el deshielo es importante por muchísimos motivos y uno de ellos es que la superficie helada evita que nuestro planeta se caliente en exceso. 
@@ -52,6 +53,7 @@ El porcentaje de radiación que se refleja con respecto a la radiación que inci
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/albedo.jpg"/>
 	<figcaption> Figura adaptada de https://en.wikipedia.org/wiki/Albedo.</figcaption>
 </figure>
+
 
 
 **Liberación de gases de efecto invernadero o la trampa del permafrost**
@@ -68,6 +70,7 @@ Como os podéis imaginar, el principal protagonista en este proceso es el CO<sub
 Si el metano no tiene tanta repercusión mediática es porque la concentración y el tiempo de vida de este gas en nuestra atmósfera es mucho menor, así que podríamos decir que, en comparación, su efecto no es tan relevante.
 
 Algo con lo que quizá no contábamos es que el <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">permafrost</a> almacena grandes cantidades de metano que están siendo liberadas a la atmósfera con el deshielo de los polos. Se estima que para el año 2100 podrían haberse liberado 92 <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">gigatones</a> de metano y CO<sub>2</sub> como consecuencia del deshielo, el equivalente al 18% de todo lo que hemos emitido desde la Revolución Industrial <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(4)</a>. ¿A qué ahora ya veis a dónde queremos llegar? El deshielo implica más metano, que implica más efecto invernadero, que conlleva un aumento de la temperatura, y esto a un deshielo de los polos. Pues ya estamos otra vez igual.
+
 
 
 **Disminución de la concentración de O<sub>2</sub> en mares y océanos o cómo están perdiendo el aliento**
@@ -89,6 +92,7 @@ En 2017, se estimaba que la concentración de O<sub>2</sub> había disminuido un
 </figure>
 
 
+
 **Enfermedades desconocidas o una gran amenaza para la salud humana**
 
 Los efectos del cambio climático que hemos mencionado hasta ahora no solo tienen una enorme repercusión en nuestros ecosistemas, modificándolos y cambiando las condiciones climáticas, sino que además pueden afectar gravemente, de forma directa o indirecta, a nuestra salud. Sin ir más lejos, el deshielo de glaciares milenarios puede suponer una de las mayores crisis sanitarias de nuestro futuro. El deshielo desencadena la liberación de algunas especies de virus y bacterias no descritas hasta el momento. Estas especies fueron atrapadas durante periodos glaciares y preservadas en el interior de estos grandes macizos de hielo.  Sabemos que algunas de ellas conservan su capacidad infectiva tras 30.000 años criogenizadas, lo que abre un abanico de posibles enfermedades humanas. Estas nuevas enfermedades podrían marcar una de las mayores crisis sanitarias en nuestra historia, algo que la comunidad científica lleva advirtiendo desde hace años <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(7)</a>.
@@ -96,6 +100,7 @@ Los efectos del cambio climático que hemos mencionado hasta ahora no solo tiene
 Si nos centramos en los efectos actuales del cambio climático sobre la salud humana, no podemos dejar a un lado la correlación directa entre el incremento de las temperaturas y la expansión de algunas enfermedades. Esta correlación explica fácilmente los nuevos casos de fiebre del Nilo detectados en la Península Ibérica. El aumento de la temperatura y de la humedad, debido al calentamiento global, permite que regiones previamente no aptas para algunas especies de mosquitos y aves puedan empezar a serlo, propagando así las enfermedades que transportan (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">8</a>,<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">9</a>). Si nos fijamos en los eventos atmosféricos cíclicos afectados por el calentamiento global, como el caso de <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">"El Niño"</a> (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">10</a>,<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">11</a>), podemos observar esta misma correlación entre el calentamiento y la expansión de enfermedades. El Niño desencadena la migración e incremento de poblaciones de especies de mosquitos, entre ellas algunas capaces de transmitir la malaria o el dengue. La migración y el tamaño de las poblaciones se ha incrementado en los últimos años debido al calentamiento global, afectando a nuevas regiones de África, América del Sur y Asia. Este mismo evento lleva a cambios en los hábitos de las personas, las cuales reservan durante largo tiempo grandes cantidades de agua y alimento, donde el mosquito que transmite el dengue sobrevive y se reproduce. Debido a ello, en los últimos 50 años, el dengue ha pasado de ser una enfermedad endémica en nueve países a reportarse en más de cien. Un incremento de casos relacionado directamente con el crecimiento de las poblaciones de mosquitos portadores del virus <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(12)</a>.  
 
 Estos y muchos otros datos, en referencia a nuestra salud, nos demuestran que combatir el cambio climático es combatir futuras crisis sanitarias que pueden aparecer desde numerosos frentes. 
+
 
 
 **Aplicaciones Biotecnológicas o las trampas que usaremos en el futuro**
