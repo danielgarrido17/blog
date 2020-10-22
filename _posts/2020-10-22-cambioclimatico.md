@@ -102,7 +102,7 @@ Una de las aplicaciones de un estudio biotecnológico que se está llevando a ca
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/fotosintesis.jpg"/>
-	<figcaption> Fotosíntesis en plantas C3, C4 y CAM (Adaptado por Intagri de Yamori *et al.*, 2014.).</figcaption>
+	<figcaption> Fotosíntesis en plantas C3, C4 y CAM (Adaptado por Intagri de Yamori et al., 2014.).</figcaption>
 </figure>
 
 Veamos porqué puede ser una ventaja transformar plantas C3 en C4. Las plantas absorben el CO<sub>2</sub> por unos poros de la hoja denominados estomas, que se abren y se cierran según las necesidades fisiológicas de la planta. Este CO<sub>2</sub> es reconocido por una enzima que se denomina Rubisco para posteriormente generar glucosa como fuente de energía. En las plantas C3 todo esto se lleva a cabo en una misma célula, denominada la célula del mesófilo. En la apertura de los estomas para introducir CO<sub>2</sub> en estas células también entra O<sub>2</sub> y se libera agua al exterior, lo que genera dos problemas distintos. El primero, resolver el debate entre apertura y cierre de estomas, ya que la planta necesita absorber CO<sub>2</sub> pero no se puede permitir una gran pérdida de agua, problema que se agrava en climas áridos. El segundo viene por la enzima Rubisco. Esta enzima se encarga de transformar el CO<sub>2</sub> en otro compuesto orgánico, pero también es capaz de reconocer el O<sub>2</sub>, por lo que si entra mucho O<sub>2</sub> la planta pierde rendimiento en la fotosíntesis (fotooxidación). 
