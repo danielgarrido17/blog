@@ -145,7 +145,7 @@ En palabras del desaparecido Félix Rodríguez de la Fuente: *“Todos debemos i
 ---
 
 <span style="font-size:1.5em"><a id="target1" style= "color:black"><b>Referencias</b></a></span>
-&nbsp;
+&nbsp;   
 [(1)](https://www.ipcc.ch/sr15/){:target="_blank"} Informe Especial del IPCC sobre la subida de 1,5ºC en la temperatura media de la Tierra.   
 [(2)](https://climate.nasa.gov/){:target="_blank"} Página web de la NASA donde se pueden encontrar datos, información o noticias sobre el cambio climático.   
 [(3)](https://www.acs.org/content/acs/en/climatescience/greenhousegases/properties.html#:~:text=Thus%20IR%20radiation%20absorbed%20by,%2C%20hence%2C%20raises%20the%20temperature){:target="_blank"} Artículo sobre gases de efecto invernadero y su potencial efecto sobre el calentamiento global (en inglés).   
