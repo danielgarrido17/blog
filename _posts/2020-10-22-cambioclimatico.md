@@ -39,7 +39,7 @@ Los gobiernos de todo el mundo se han intentado poner de acuerdo y establecer un
 Nuestra misión en el post de hoy es intentar mostrar, en la medida de lo posible, la necesidad de multidisciplinariedad que existe en este campo. Es uno de los temas candentes (nunca mejor dicho) del presente y futuro y, por lo tanto, científicos de todo el mundo y de todas las ramas necesitamos aunar fuerzas para comprender en detalle este proceso y estudiar cómo paliar o mitigar los efectos que puede tener en nuestro planeta.
 Es por ello por lo que hoy os presentamos un ejercicio de multidisciplinariedad: una serie de procesos, causas y efectos relacionados con el cambio climático planteados desde perspectivas como la Física, Química ambiental, Virología o Biotecnología.
 
-
+   
 **Albedo o el aire acondicionado del mundo**    
 Es sabiduría popular que hace 20 años los inviernos eran más fríos y nevaba de manera más frecuente. Ahora, cada año nieva un poco menos que el anterior, cada vez en cotas más altas, y el deshielo polar es más prematuro. Este aumento de temperaturas también hace que las nieves perpetuas y los glaciares reduzcan su extensión, al igual que las grandes masas de hielo de los polos. Evitar el deshielo es importante por muchísimos motivos y uno de ellos es que la superficie helada evita que nuestro planeta se caliente en exceso. 
 
@@ -52,7 +52,7 @@ El porcentaje de radiación que se refleja con respecto a la radiación que inci
 	<figcaption> Figura adaptada de https://en.wikipedia.org/wiki/Albedo.</figcaption>
 </figure>
 
-
+   
 **Liberación de gases de efecto invernadero o la trampa del permafrost**   
 Ah, entonces el deshielo de los polos es peligroso porque se reduciría el albedo del planeta… Pues sí… pero no solo eso. Otra de las razones por las que el deshielo de los polos de nuestro planeta es tan peligroso es que de ese hielo salen cosas. ¿Qué cosas? Pues, por ejemplo, moléculas en forma gaseosa que son liberadas a la atmósfera. Y este suceso, que a primera vista puede parecer inofensivo, tiene en realidad un efecto tremendo en el calentamiento global.
 Como hemos visto antes, los principales responsables del aumento en la temperatura del planeta son los gases de efecto invernadero (GHG). La razón es que son capaces de absorber la radiación infrarroja: un tipo de radiación de baja energía que es “re-emitida” por la superficie terrestre tras recibir la radiación solar. Esta pequeña cantidad no es suficiente para que se produzcan reacciones químicas, pero sí es capaz de provocar que los enlaces que unen los átomos de las moléculas de los GHG vibren y se doblen, lo que a su vez conlleva un aumento de la <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">energía cinética</a> que se transmite de unas moléculas a otras a través de colisiones. Y, ¿qué produce toda esta transmisión de energía? Pues calor. Y así tenemos, a grandes rasgos, nuestra explicación molecular del efecto invernadero.
@@ -67,7 +67,7 @@ Si el metano no tiene tanta repercusión mediática es porque la concentración 
 
 Algo con lo que quizá no contábamos es que el <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">permafrost</a> almacena grandes cantidades de metano que están siendo liberadas a la atmósfera con el deshielo de los polos. Se estima que para el año 2100 podrían haberse liberado 92 <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">gigatones</a> de metano y CO<sub>2</sub> como consecuencia del deshielo, el equivalente al 18% de todo lo que hemos emitido desde la Revolución Industrial <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(4)</a>. ¿A qué ahora ya veis a dónde queremos llegar? El deshielo implica más metano, que implica más efecto invernadero, que conlleva un aumento de la temperatura, y esto a un deshielo de los polos. Pues ya estamos otra vez igual.
 
-
+   
 **Disminución de la concentración de O<sub>2</sub> en mares y océanos o cómo están perdiendo el aliento**   
 Menos hielo, más metano, aumento de la temperatura. El agua es una excelente captadora de energía térmica; por lo tanto, la temperatura de los océanos y mares también está aumentando a causa del cambio climático. Este incremento de la temperatura no solo provoca que los hábitats de las especies marinas se vean modificados, lo que causa que algunas especies se queden sin hábitat y otras tengan que migrar (aumentando las <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">competencias interespecíficas</a>), sino que, además, provoca que la concentración de oxígeno en mares y océanos disminuya.
 
@@ -85,7 +85,7 @@ En 2017, se estimaba que la concentración de O<sub>2</sub> había disminuido un
 	<figcaption> Variación del área cubierta por aguas con concentraciones de O<sub>2</sub> inferiores a 2mg/L en el mar Báltico <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(6)</a>.</figcaption>
 </figure>
 
-
+   
 **Enfermedades desconocidas o una gran amenaza para la salud humana**   
 Los efectos del cambio climático que hemos mencionado hasta ahora no solo tienen una enorme repercusión en nuestros ecosistemas, modificándolos y cambiando las condiciones climáticas, sino que además pueden afectar gravemente, de forma directa o indirecta, a nuestra salud. Sin ir más lejos, el deshielo de glaciares milenarios puede suponer una de las mayores crisis sanitarias de nuestro futuro. El deshielo desencadena la liberación de algunas especies de virus y bacterias no descritas hasta el momento. Estas especies fueron atrapadas durante periodos glaciares y preservadas en el interior de estos grandes macizos de hielo.  Sabemos que algunas de ellas conservan su capacidad infectiva tras 30.000 años criogenizadas, lo que abre un abanico de posibles enfermedades humanas. Estas nuevas enfermedades podrían marcar una de las mayores crisis sanitarias en nuestra historia, algo que la comunidad científica lleva advirtiendo desde hace años <a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">(7)</a>.
 
@@ -93,7 +93,7 @@ Si nos centramos en los efectos actuales del cambio climático sobre la salud hu
 
 Estos y muchos otros datos, en referencia a nuestra salud, nos demuestran que combatir el cambio climático es combatir futuras crisis sanitarias que pueden aparecer desde numerosos frentes. 
 
-
+   
 **Aplicaciones Biotecnológicas o las trampas que usaremos en el futuro**   
 Albedo por aquí, disminución de oxígeno por allá… Estos cambios tan drásticos harán que nuestras condiciones de vida se vean muy afectadas. Pero no vamos a quedarnos de brazos cruzados viendo cómo el planeta se convierte en un lugar inhabitable para el ser humano, ¿verdad? Es por ello que se están buscando soluciones, no solo para paliar el cambio climático, sino también para poder adaptarnos al futuro mediante la modificación de organismos vivos. 
 
