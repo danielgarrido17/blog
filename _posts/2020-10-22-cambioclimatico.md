@@ -40,7 +40,7 @@ Nuestra misión en el post de hoy es intentar mostrar, en la medida de lo posibl
 Es por ello por lo que hoy os presentamos un ejercicio de multidisciplinariedad: una serie de procesos, causas y efectos relacionados con el cambio climático planteados desde perspectivas como la Física, Química ambiental, Virología o Biotecnología.
 
 
-#Albedo o el aire acondicionado del mundo
+#Albedo o el aire acondicionado del mundo#
 Es sabiduría popular que hace 20 años los inviernos eran más fríos y nevaba de manera más frecuente. Ahora, cada año nieva un poco menos que el anterior, cada vez en cotas más altas, y el deshielo polar es más prematuro. Este aumento de temperaturas también hace que las nieves perpetuas y los glaciares reduzcan su extensión, al igual que las grandes masas de hielo de los polos. Evitar el deshielo es importante por muchísimos motivos y uno de ellos es que la superficie helada evita que nuestro planeta se caliente en exceso. 
 
 Toda superficie a la que llega un rayo de luz puede reflejar parte de este y, dependiendo de las características de la superficie, la cantidad de luz reflejada será mayor o menor. Por ejemplo, siempre se nos dice que cuando hace mucho calor vistamos con ropa clara, que nos pongamos gafas de sol cuando vamos a la nieve o que si quieres que tu casa parezca luminosa pintes las paredes de blanco. Todo esto es porque las superficies blancas hacen que la luz se refleje mucho más que el resto. La parte de la radiación que no se refleja es absorbida por el objeto iluminado y produce un aumento de temperatura en él. Véis por donde van los tiros, ¿no? 
