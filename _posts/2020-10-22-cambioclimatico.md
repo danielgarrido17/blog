@@ -76,7 +76,7 @@ Menos hielo, más metano, aumento de la temperatura. El agua es una excelente ca
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/estados.jpg"/>
-	<figcaption> Relación de la energía cinética y la entropía con el estado de la materia. Adaptada de https://www.caracteristicas.co/estados-solido-liquido-gaseoso/.</figcaption>
+	<figcaption> Relación de la energía cinética y la entropía con el estado de la materia. Figura adaptada de https://www.caracteristicas.co/estados-solido-liquido-gaseoso/.</figcaption>
 </figure>
 
 En 2017, se estimaba que la concentración de O<sub>2</sub> había disminuido un 2% en los últimos 50 años (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">5</a>) y, aunque no parezca demasiado, sus consecuencias ya son evidentes en la biodiversidad marina. Por ejemplo, podemos observar un aumento en las poblaciones de microbios, algas y medusas (especies que toleran niveles de oxígeno más bajos) mientras vemos decrecer las poblaciones de peces; por ejemplo, de atunes y tiburones (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">5</a>).
@@ -102,7 +102,7 @@ Una de las aplicaciones de un estudio biotecnológico que se está llevando a ca
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/fotosintesis.jpg"/>
-	<figcaption> Fotosíntesis en plantas C3, C4 y CAM (Adaptado por Intagri de Yamori et al., 2014.).</figcaption>
+	<figcaption> Fotosíntesis en plantas C3, C4 y CAM. Figura adaptada por Intagri de Yamori et al., 2014.</figcaption>
 </figure>
 
 Veamos porqué puede ser una ventaja transformar plantas C3 en C4. Las plantas absorben el CO<sub>2</sub> por unos poros de la hoja denominados estomas, que se abren y se cierran según las necesidades fisiológicas de la planta. Este CO<sub>2</sub> es reconocido por una enzima que se denomina Rubisco para posteriormente generar glucosa como fuente de energía. En las plantas C3 todo esto se lleva a cabo en una misma célula, denominada la célula del mesófilo. En la apertura de los estomas para introducir CO<sub>2</sub> en estas células también entra O<sub>2</sub> y se libera agua al exterior, lo que genera dos problemas distintos. El primero, resolver el debate entre apertura y cierre de estomas, ya que la planta necesita absorber CO<sub>2</sub> pero no se puede permitir una gran pérdida de agua, problema que se agrava en climas áridos. El segundo viene por la enzima Rubisco. Esta enzima se encarga de transformar el CO<sub>2</sub> en otro compuesto orgánico, pero también es capaz de reconocer el O<sub>2</sub>, por lo que si entra mucho O<sub>2</sub> la planta pierde rendimiento en la fotosíntesis (fotooxidación). 
