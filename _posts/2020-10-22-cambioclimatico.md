@@ -59,7 +59,7 @@ Como hemos visto antes, los principales responsables del aumento en la temperatu
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/gif.gif"/>
-	<figcaption> Animación de una molécula de CO<sub>2</sub> al recibir radiación infrarroja (https://scilearn.sydney.edu.au/OrganicSpectroscopy/?type=Infrared).</figcaption>
+	<figcaption> Animación de una molécula de CO<sub>2</sub> al recibir radiación infrarroja Fuente: https://scilearn.sydney.edu.au/OrganicSpectroscopy/?type=Infrared.</figcaption>
 </figure>
 
 Como os podéis imaginar, el principal protagonista en este proceso es el CO<sub>2</sub>, pero para nada es el único actor de la obra. El CO<sub>2</sub> absorbe radiación de una región concreta del espectro infrarrojo, pero el resto de ella pasa sin tener apenas efecto. Sin embargo, otras moléculas sí que pueden aprovechar la radiación que el CO<sub>2</sub> no absorbe y hacerlo además de forma muy eficiente. Un ejemplo es el metano, que en un periodo de 100 años puede producir 25 veces más efecto invernadero que el equivalente en masa de CO<sub>2</sub> (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">3</a>).
@@ -83,7 +83,7 @@ En 2017, se estimaba que la concentración de O<sub>2</sub> había disminuido un
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/concentraciono2.jpg"/>
-	<figcaption> Variación del área cubierta por aguas con concentraciones de O<sub>2</sub> inferiores a 2mg/L en el mar Báltico (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">6</a>).</figcaption>
+	<figcaption> Variación del área cubierta por aguas con concentraciones de O<sub>2</sub> inferiores a 2mg/L en el mar Báltico. Fuente: https://link.springer.com/article/10.1007/s13280-013-0474-7 (<a style="color:lightslategray" href="https://danielgarrido17.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">6</a>).</figcaption>
 </figure>
 
    
