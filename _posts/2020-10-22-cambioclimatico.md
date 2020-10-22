@@ -146,21 +146,21 @@ En palabras del desaparecido Félix Rodríguez de la Fuente: *“Todos debemos i
 
 <span style="font-size:1.5em"><a id="target1" style= "color:black"><b>Referencias</b></a></span>
 &nbsp;
-* [(1)](https://www.ipcc.ch/sr15/){:target="_blank"} Informe Especial del IPCC sobre la subida de 1,5ºC en la temperatura media de la Tierra.
-* [(2)](https://climate.nasa.gov/){:target="_blank"} Página web de la NASA donde se pueden encontrar datos, información o noticias sobre el cambio climático.
-* [(3)](https://www.acs.org/content/acs/en/climatescience/greenhousegases/properties.html#:~:text=Thus%20IR%20radiation%20absorbed%20by,%2C%20hence%2C%20raises%20the%20temperature){:target="_blank"} Artículo sobre gases de efecto invernadero y su potencial efecto sobre el calentamiento global (en inglés).
-* [(4)](https://www.nature.com/articles/nature14338.pdf){:target="_blank"} Artículo de tipo revisión en relación a los compuestos de carbono que se almacenan en el permafrost y que son liberados en forma de CO<sub>2</sub> o metano como consecuencia del deshielo. [(Nota de prensa)](https://insideclimatenews.org/news/23042015/thawing-permafrost-arctic-slow-giant-carbon-release){:target="_blank"}
-* [(5)](https://en.unesco.org/sites/default/files/265196eng.pdf){:target="_blank"} Sobre las causas y consecuencias del la desoxigenación de los mares y océanos (en inglés).
-* [(6)](https://link.springer.com/article/10.1007/s13280-013-0474-7){:target="_blank"} Hipoxia en el Mar Báltico (en inglés). [(Artículo)](https://portals.iucn.org/library/sites/library/files/documents/2019-048-Es-Summ.pdf){:target="_blank"} Artículo de la UICN (Unión interacional para la conservación de la naturaleza) sobre la desoxigenación de mares y oceanos. [(Más información)](https://www.noaa.gov/what-is-harmful-algal-bloom ){:target="_blank"} Más información sobre eventos de proliferación de algas, una de las consecuencias de la desoxigenación de mares y océanos (en inglés).
-* [(7)](https://www.pnas.org/content/111/11/4274){:target="_blank"} Artículo sobre virus gigantes del permafrost siberiano con capacidad infectiva tras 30.000 años congelados (en inglés).
-* [(8)](https://twitter.com/CientificasEr/status/1294292889447661570?s=20){:target="_blank"} Hilo de Twitter sobre la fiebre del Nilo.
-* [(9)](https://www.nature.com/articles/s41586-018-0776-9){:target="_blank"} Artículo en el que se explica la correlación entre el calentamiento global y la variación en El Niño.
-* [(10)](https://twitter.com/CientificasEr/status/1294645622612598784){:target="_blank"} Hilo de Twitter sobre El Niño.
-* [(11)](https://www.who.int/globalchange/summary/en/index5.html){:target="_blank"} Efecto de El Niño en enfermedades como la malaria, el dengue o el cólera por parte de la Organización Mundial de la Salud.
-* [(12)](https://www.sciencedirect.com/science/article/pii/S0048969720321215?via%3Dihub){:target="_blank"} Artículo donde se correlacionan niveles de polución con mayor número de casos graves de COVID-19 en España.
-* [(13)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13155){:target="_blank"} Artículo en el que se explican los avances para transformar las plantas C3 en C4 (en inglés).
-* [(14)](https://www.nature.com/articles/s43016-020-0051-8){:target="_blank"} Artículo sobre la inhibición de la producción del metano en vacas (en inglés).
-* [(15)](https://www.pnas.org/content/pnas/112/34/10663.full.pdf){:target="_blank"} Artículo sobre el aumento del rendimiento de las cosechas mediante ingeniería genética (en inglés).
+* ([1])(https://www.ipcc.ch/sr15/){:target="_blank"} Informe Especial del IPCC sobre la subida de 1,5ºC en la temperatura media de la Tierra.
+* ([2])(https://climate.nasa.gov/){:target="_blank"} Página web de la NASA donde se pueden encontrar datos, información o noticias sobre el cambio climático.
+* ([3])(https://www.acs.org/content/acs/en/climatescience/greenhousegases/properties.html#:~:text=Thus%20IR%20radiation%20absorbed%20by,%2C%20hence%2C%20raises%20the%20temperature){:target="_blank"} Artículo sobre gases de efecto invernadero y su potencial efecto sobre el calentamiento global (en inglés).
+* ([4])(https://www.nature.com/articles/nature14338.pdf){:target="_blank"} Artículo de tipo revisión en relación a los compuestos de carbono que se almacenan en el permafrost y que son liberados en forma de CO<sub>2</sub> o metano como consecuencia del deshielo. [(Nota de prensa)](https://insideclimatenews.org/news/23042015/thawing-permafrost-arctic-slow-giant-carbon-release){:target="_blank"}
+* ([5])(https://en.unesco.org/sites/default/files/265196eng.pdf){:target="_blank"} Sobre las causas y consecuencias del la desoxigenación de los mares y océanos (en inglés).
+* ([6])(https://link.springer.com/article/10.1007/s13280-013-0474-7){:target="_blank"} Hipoxia en el Mar Báltico (en inglés). [(Artículo)](https://portals.iucn.org/library/sites/library/files/documents/2019-048-Es-Summ.pdf){:target="_blank"} Artículo de la UICN (Unión interacional para la conservación de la naturaleza) sobre la desoxigenación de mares y oceanos. [(Más información)](https://www.noaa.gov/what-is-harmful-algal-bloom ){:target="_blank"} Más información sobre eventos de proliferación de algas, una de las consecuencias de la desoxigenación de mares y océanos (en inglés).
+* ([7])(https://www.pnas.org/content/111/11/4274){:target="_blank"} Artículo sobre virus gigantes del permafrost siberiano con capacidad infectiva tras 30.000 años congelados (en inglés).
+* ([8])(https://twitter.com/CientificasEr/status/1294292889447661570?s=20){:target="_blank"} Hilo de Twitter sobre la fiebre del Nilo.
+* ([9])(https://www.nature.com/articles/s41586-018-0776-9){:target="_blank"} Artículo en el que se explica la correlación entre el calentamiento global y la variación en El Niño.
+* ([10])(https://twitter.com/CientificasEr/status/1294645622612598784){:target="_blank"} Hilo de Twitter sobre El Niño.
+* ([11])(https://www.who.int/globalchange/summary/en/index5.html){:target="_blank"} Efecto de El Niño en enfermedades como la malaria, el dengue o el cólera por parte de la Organización Mundial de la Salud.
+* ([12])(https://www.sciencedirect.com/science/article/pii/S0048969720321215?via%3Dihub){:target="_blank"} Artículo donde se correlacionan niveles de polución con mayor número de casos graves de COVID-19 en España.
+* ([13])(https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13155){:target="_blank"} Artículo en el que se explican los avances para transformar las plantas C3 en C4 (en inglés).
+* ([14])(https://www.nature.com/articles/s43016-020-0051-8){:target="_blank"} Artículo sobre la inhibición de la producción del metano en vacas (en inglés).
+* ([15])(https://www.pnas.org/content/pnas/112/34/10663.full.pdf){:target="_blank"} Artículo sobre el aumento del rendimiento de las cosechas mediante ingeniería genética (en inglés).
 {: .notice--primary}
 
 **Para saber más**
