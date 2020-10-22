@@ -159,8 +159,8 @@ En palabras del desaparecido Félix Rodríguez de la Fuente: *“Todos debemos i
 [(11)](https://www.who.int/globalchange/summary/en/index5.html){:target="_blank"} Efecto de El Niño en enfermedades como la malaria, el dengue o el cólera por parte de la Organización Mundial de la Salud.   
 [(12)](https://www.sciencedirect.com/science/article/pii/S0048969720321215?via%3Dihub){:target="_blank"} Artículo donde se correlacionan niveles de polución con mayor número de casos graves de COVID-19 en España.   
 [(13)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13155){:target="_blank"} Artículo en el que se explican los avances para transformar las plantas C3 en C4 (en inglés).   
-[(14)](https://www.nature.com/articles/s43016-020-0051-8){:target="_blank"} Artículo sobre la inhibición de la producción del metano en vacas (en inglés).   
-[(15)](https://www.pnas.org/content/pnas/112/34/10663.full.pdf){:target="_blank"} Artículo sobre el aumento del rendimiento de las cosechas mediante ingeniería genética (en inglés).
+[(14)](https://www.pnas.org/content/pnas/112/34/10663.full.pdf){:target="_blank"} Artículo sobre la inhibición de la producción del metano en vacas (en inglés).   
+[(15)](https://www.nature.com/articles/s43016-020-0051-8){:target="_blank"} Artículo sobre el aumento del rendimiento de las cosechas mediante ingeniería genética (en inglés).
 {: .notice--primary}
 
 **Para saber más**
