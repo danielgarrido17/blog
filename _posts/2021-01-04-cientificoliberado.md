@@ -39,7 +39,7 @@ En concreto la especie de estudio es *Margaritifera margaritifera* y no os confu
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-01-08-cientificoliberado/margaritifera.jpg"/>
-	<figcaption> Adultos de *Margaritifera margaritifera* en el lecho del río
+	<figcaption> Adultos de *Margaritifera margaritifera* en el lecho del río.
 </figcaption>
 </figure>
 
