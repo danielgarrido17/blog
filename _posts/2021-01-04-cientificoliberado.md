@@ -15,10 +15,10 @@ tags:
 
 Noto los pies húmedos y fríos, pero no me resulta desagradable. El Sol me da en la cara y me acuerdo de que no llevo crema solar.
 
-—¡… y cinco!
-—¿Sesenta y cinco o setenta y cinco?
-—¡Sesenta y cinco milímetros!
-—¡Vale!
+—¡… y cinco!      
+—¿Sesenta y cinco o setenta y cinco?      
+—¡Sesenta y cinco milímetros!      
+—¡Vale!      
 
 Apoyo la hoja de papel que tengo en mis rodillas y apunto. Alzo la vista y observo lo que me rodea con curiosidad. Me encuentro sentado en una roca, en la orilla de un pequeño río incrustado en un valle de un verde intenso y con los pies metidos en el agua. En las manos tengo una tablilla para anotar y mil libélulas y otros <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/cr%C3%B3nica%20de%20un%20cient%C3%ADfico%20encerrado/cientificoliberado/index.html#target">odonatos</a> se acercan a mí como si fuesen helicópteros y yo un King Kong encaramado en lo alto de un rascacielos. Enfrente de mí, una compañera me va recitando números en una especie de bingo, y mi misión ahora es anotarlos todos en el sitio que les corresponde. Luego cambiamos y me toca a mí estar metido en el agua hasta la cintura (y en otros casos hasta el cuello), gritando números que obtengo de distintos aparatos que llevo encima. Estos números parecen aleatorios, y es ahí donde está mi trabajo: intentar entender si esas retahílas infinitas tienen algún sentido.
 
@@ -31,7 +31,7 @@ Estos bivalvos son conocidos como náyades o mejillones de río y deben su nombr
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-01-08-cientificoliberado/cuadro.jpg"/>
-	<figcaption>  *The Naiad* o La Náyade, pintura Romántica de John William Waterhouse (1893)
+	<figcaption>  *The* *Naiad* o La Náyade, pintura Romántica de John William Waterhouse (1893)
 </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ En concreto la especie de estudio es *Margaritifera margaritifera* y no os confu
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-01-08-cientificoliberado/margaritifera.jpg"/>
-	<figcaption>  Adultos de *Margaritifera margaritifera* en el lecho del río
+	<figcaption>  Adultos de *Margaritifera* *margaritifera* en el lecho del río
 </figcaption>
 </figure>
 
