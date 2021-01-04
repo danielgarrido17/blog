@@ -31,7 +31,7 @@ Estos bivalvos son conocidos como náyades o mejillones de río y deben su nombr
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-01-08-cientificoliberado/cuadro.jpg"/>
-	<figcaption>  _The Naiad_ o La Náyade, pintura Romántica de John William Waterhouse (1893)
+	<figcaption>  "The Naiad" o La Náyade, pintura Romántica de John William Waterhouse (1893)
 </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ En concreto la especie de estudio es *Margaritifera margaritifera* y no os confu
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-01-08-cientificoliberado/margaritifera.jpg"/>
-	<figcaption>  Adultos de _Margaritifera margaritifera_ en el lecho del río
+	<figcaption>  Adultos de *Margaritifera* margaritifera en el lecho del río
 </figcaption>
 </figure>
 
