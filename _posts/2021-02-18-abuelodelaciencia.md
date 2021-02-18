@@ -1,5 +1,5 @@
 ---
-title: "El Abuelo de la Ciencia PRUEBA"
+title: "El Abuelo de la Ciencia"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
